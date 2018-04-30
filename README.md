@@ -1,7 +1,7 @@
  # ECE110 Final Project: Capsense Piano
 For our final Project we decided to build a capcitive sensing piano, with player piano functionality. The piano is cunstructed using 9 "keys", 7 of which are playable notes ("CDEFGAB") and two that increase or decrease the current octave.
 
-[Project Video](https://youtu.be/BPOdLZJJkx4)
+[Project Video](https://youtu.be/TBOhx5bGpE4)
 
 Code Made Possible By:
  - Paul Badger - [Capsense Library](https://playground.arduino.cc/Main/CapacitiveSensor?from=Main.CapSense)
